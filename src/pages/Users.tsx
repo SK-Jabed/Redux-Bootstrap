@@ -1,5 +1,5 @@
 
-const User = () => {
+const Users = () => {
     return (
         <div>
             This is User Component
@@ -7,4 +7,4 @@ const User = () => {
     );
 };
 
-export default User;
+export default Users;
